@@ -2,8 +2,10 @@ import logo from '../../../image/logos/Group 1329.png'
 import React from 'react';
 import { Container, Navbar, Nav, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom'
+import useAuth from '../../../hooks/useAuth'
 const Header = () => {
-    console.log('header is connected')
+    const { user, handleSignOut } = useAuth()
+
     return (
         <div>
             <Navbar bg="light" variant="light" >
@@ -18,7 +20,7 @@ const Header = () => {
                         <Nav.Link as={Link} to="/blog">Blog</Nav.Link>
 
                     </Nav>
-                    <Button variant="primary me-2">Register</Button>{' '}
+                    {user.displayName ? <button onClick={handleSignOut} className="btn btn=primary">logout</button> : <button variant="primary me-2"><Link to="/register">Register</Link></button>}
                     <Button variant="dark">Admin</Button>{' '}
                 </Container>
             </Navbar>

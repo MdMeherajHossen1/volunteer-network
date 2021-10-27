@@ -3,6 +3,7 @@ import './App.css';
 import AuthProvider from './context/AuthProvider';
 import Header from "./Pages/Shared/Header/Header";
 import Home from './Pages/Home/Home/Home'
+import Login from "./Pages/Home/Login/Login";
 function App() {
 
   return (
@@ -11,8 +12,11 @@ function App() {
         <Router>
           <Header></Header>
           <Switch>
-            <Route path="/">
+            <Route exact path="/">
               <Home></Home>
+            </Route>
+            <Route path="/register">
+              <Login></Login>
             </Route>
           </Switch>
         </Router>
