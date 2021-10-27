@@ -1,15 +1,23 @@
-import logo from './logo.svg';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import './App.css';
+import AuthProvider from './context/AuthProvider';
+import Header from "./Pages/Shared/Header/Header";
 
 function App() {
-  const colors = ['green', 'blue', 'yellow']
-  const style = {
-    backgruondColor: Math.ceil(Math.random().colors.length)
-  }
+
   return (
-    <div className="App" style={style}>
-      <h2>this is something like tahn</h2>
-    </div>
+    <>
+      <AuthProvider>
+        <Router>
+          <Header></Header>
+          <Switch>
+            <Route path="/">
+
+            </Route>
+          </Switch>
+        </Router>
+      </AuthProvider>
+    </>
   );
 }
 

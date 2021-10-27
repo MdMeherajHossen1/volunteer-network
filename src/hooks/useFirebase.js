@@ -34,7 +34,7 @@ const useFirebase = () => {
     // observer for the user
     useEffect(() => {
         onAuthStateChanged(auth, user => {
-            if (user.displayName) {
+            if (user) {
                 setUser(user)
             }
             else {
