@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Child Support",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/F0nTggZ/child-Support.png"
+    },
+    {
+        "name": "Animal Shelter",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/NnLbsXg/animal-Shelter.png"
+    },
+    {
+        "name": "BabySit during PTA meeting",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/cCXP4r5/babySit.png"
+    },
+    {
+        "name": "Build Brid-Houses for your neighbours",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/4JC9Vvq/bird-House.png"
+    },
+    {
+        "name": "Clean Water for your Children",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/7V4mh6h/clean-Water.png"
+    },
+    {
+        "name": "Clean up your local park",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/FBRMdXW/clearn-Park.png"
+    },
+    {
+        "name": "Host a clothing Swap",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/d4FfVXX/cloth-Swap.png"
+    },
+    {
+        "name": "Give a seminar for driving safety",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/3YZZgFF/drive-Safety.png"
+    },
+    {
+        "name": "Extra volunteer for needy people",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/124QbyW/extra-Volunteer.png"
+    },
+    {
+        "name": "Food Charity",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/QF3nxQz/food-Charity.png"
+    },
+    {
+        "name": "Good Education",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/f0SD6Ty/good-Education.png"
+    },
+    {
+        "name": "Give IT help to local Adults",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/V9jDrLH/ITHelp.png"
+    },
+    {
+        "name": "Organize Books at the Library",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https://i.ibb.co/NZhyHRm/library-Books.png"
+    },
+    {
+        "name": "Give Free Music Lessons",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https: //i.ibb.co/fqZbfgY/music-Lessons.png"
+    },
+    {
+        "name": "NewBooks for Children",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https: //i.ibb.co/rtwFsB2/newBooks.png"
+    },
+    {
+        "name": "Refuse Shelter",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https: //i.ibb.co/qp4MqF2/refuse-Shelter.png"
+    },
+    {
+        "name": "Host a river Clean up",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https: //i.ibb.co/KKqf8f2/river-Clean.png"
+    },
+    {
+        "name": "Collect School Suffiles",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https: //i.ibb.co/Kz9Mc2v/school-Suffiles.png"
+    },
+    {
+        "name": "Stydy Group",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https: //i.ibb.co/kG2rkNL/study-Group.png"
+    },
+    {
+        "name": "Collect Stuffed Animals",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https: //i.ibb.co/9tmv8Ly/stuffed-Animals.png"
+    },
+    {
+        "name": "Teach people how to register to vote",
+        "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A est sint qui assumenda veritatis quasi, dolor rerum cum aperiam ad.",
+        "img": "https: //i.ibb.co/DWhMMkJ/vote-Register.png"
+    }
+]

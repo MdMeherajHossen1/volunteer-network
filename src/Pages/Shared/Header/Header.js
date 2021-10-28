@@ -20,8 +20,8 @@ const Header = () => {
                         <Nav.Link as={Link} to="/blog">Blog</Nav.Link>
 
                     </Nav>
-                    {user.displayName ? <button onClick={handleSignOut} className="btn btn=primary">logout</button> : <button variant="primary me-2"><Link to="/register">Register</Link></button>}
-                    <Button variant="dark">Admin</Button>{' '}
+                    {user.displayName ? <button onClick={handleSignOut} className="btn btn-primary">logout</button> : <Link to="/login"> <button className="btn btn-primary me-2">Login</button></Link>}
+                    <Link to="/Register"> <button className="btn btn-success me-2">Register</button></Link>
                 </Container>
             </Navbar>
         </div>

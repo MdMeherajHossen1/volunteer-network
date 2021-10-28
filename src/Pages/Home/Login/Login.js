@@ -9,6 +9,7 @@ const Login = () => {
                 <h3>Login With</h3>
                 <button onClick={handleGoogleSignIn} className="btn btn-outline-secondary rounded-pill">Continue With Google</button>
                 <p>Do you have an account? <Link to="/register">Create an Account</Link> </p>
+
             </div>
         </div>
     );
